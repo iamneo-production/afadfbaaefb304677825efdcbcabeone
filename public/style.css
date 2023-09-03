@@ -32,8 +32,13 @@ body {
 }
 btn:hover{
   background-color: chartreuse;
-  curser:
+  cursor:pointer;
 }
-#reset{
-
+btn:disabled,
+btn[disabled]{
+  color:black;
+  cursor:no-drop;
+}
+.result-container{
+  background
 }
