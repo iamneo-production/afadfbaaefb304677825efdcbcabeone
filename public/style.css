@@ -54,3 +54,11 @@ btn[disabled]{
 #reset{
   text-align:center;
 }
+button{
+  border:black;
+  color:black;
+  button:hover{
+    color:white;
+    background-color: white;
+  }
+}
